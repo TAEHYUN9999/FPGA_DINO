@@ -19,5 +19,5 @@ Verilog HDL을 이용해 Chrome Dino 게임을 구현한 프로젝트입니다. 
 장애물이 랜덤하게 등장하며 충돌 시 게임 오버.
 
 점수는 시간에 따라 증가하며 7-Segment 또는 LCD로 표시됩니다.
-
-
+# 실행영상
+https://youtube.com/shorts/XMMhV55Hdbc?si=bq1H5qv-Ly8dVmYY
